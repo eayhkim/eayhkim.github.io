@@ -26,7 +26,7 @@ I am a Linguistics Ph.D. student at the University of California, Berkeley. I ha
 - Results of a priming study on native Chinese speakers indicate that archaic idioms are morphologically decomposed during processing in spite of their semantic opacity and archaic syntactic irregularity, supporting the obligatory decomposition model; ambiguous results on loan word pseudocompounds indicates the need for further study.
 
 ### Predicting Chinese Idiom Memorability and Obscurity from Linguistic Features
-- This project aims to understand if general principles of communicative efficiency that have been found to act upon high-frequency words in natural language vocabularies cross-linguistically also extend to low-frequency fixed expressions such as idioms. 
+- Prior reserach on principles of communicative efficiency in natural language have primarily focused on high-frequency words; this project extends those findings to low-frequency fixed expressions such as idioms.
 - Comparing efficiency-based linguistic features of archaic Chinese idioms (成语 *chengyu*) that have either remained in common usage or fallen into obscurity. 
 - Preliminary results indicate that idioms which are simpler and more consistent with Modern Chinese syntax are more likely to be retained in the vocabulary, which is consistent with principles of communicative efficiency. 
 
